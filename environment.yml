@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
+  - scipy
+  - geopandas
+  - cartopy
+  - owslib
